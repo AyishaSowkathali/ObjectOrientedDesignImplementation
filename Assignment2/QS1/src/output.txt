@@ -1,0 +1,138 @@
+Adding Passenger 1 to queue A
+Adding Passenger 2 to queue B
+Adding Passenger 3 to queue B
+Adding Passenger 4 to queue A
+Adding Passenger 5 to queue A
+Adding Passenger 6 to queue B
+Adding Passenger 7 to queue B
+Adding Passenger 8 to queue A
+Adding Passenger 9 to queue A
+Adding Passenger 10 to queue A
+Adding Passenger 11 to queue B
+Adding Passenger 12 to queue A
+Adding Passenger 13 to queue A
+Adding Passenger 14 to queue B
+Adding Passenger 15 to queue B
+Adding Passenger 16 to queue B
+Adding Passenger 17 to queue B
+Adding Passenger 18 to queue B
+Adding Passenger 19 to queue B
+Adding Passenger 20 to queue B
+Adding Passenger 21 to queue A
+Adding Passenger 22 to queue A
+Adding Passenger 23 to queue A
+Adding Passenger 24 to queue B
+Adding Passenger 25 to queue B
+Adding Passenger 26 to queue B
+Adding Passenger 27 to queue A
+Adding Passenger 28 to queue B
+Adding Passenger 29 to queue B
+Adding Passenger 30 to queue A
+Adding Passenger 31 to queue B
+Adding Passenger 32 to queue B
+Adding Passenger 33 to queue B
+Adding Passenger 34 to queue A
+Adding Passenger 35 to queue A
+Adding Passenger 36 to queue A
+Adding Passenger 37 to queue B
+Adding Passenger 38 to queue A
+Adding Passenger 39 to queue A
+Adding Passenger 40 to queue A
+Adding Passenger 41 to queue A
+Adding Passenger 42 to queue A
+Adding Passenger 43 to queue A
+Adding Passenger 44 to queue A
+Adding Passenger 47 to queue A
+Adding Passenger 48 to queue A
+Checker B processing Passenger 2
+Checker A processing Passenger 1
+Queue C size: 1
+Queue C size: 2
+Checker B processing Passenger 3
+Checker A processing Passenger 4
+Queue C size: 3
+Queue C size: 4
+Checker B processing Passenger 6
+Checker A processing Passenger 5
+Queue C size: 5
+Queue C size: 6
+Checker B processing Passenger 7
+Checker A processing Passenger 8
+Queue C size: 7
+Queue C size: 8
+Checker B processing Passenger 11
+Checker A processing Passenger 9
+Queue C size: 9
+Queue C size: 10
+Checker B processing Passenger 14
+Checker A processing Passenger 10
+Queue C size: 11
+Queue C size: 12
+Checker B processing Passenger 15
+Checker A processing Passenger 12
+Queue C size: 13
+Queue C size: 14
+Checker B processing Passenger 16
+Checker A processing Passenger 13
+Queue C size: 15
+Queue C size: 16
+Checker A processing Passenger 21
+Checker B processing Passenger 17
+Queue C size: 17
+Queue C size: 18
+Checker B processing Passenger 18
+Checker A processing Passenger 22
+Queue C size: 19
+Queue C size: 20
+Checker A processing Passenger 23
+Checker B processing Passenger 19
+Queue C size: 21
+Queue C size: 22
+Checker A processing Passenger 27
+Checker B processing Passenger 20
+Queue C size: 23
+Queue C size: 24
+Checker A processing Passenger 30
+Checker B processing Passenger 24
+Queue C size: 25
+Queue C size: 26
+Checker A processing Passenger 34
+Checker B processing Passenger 25
+Queue C size: 27
+Queue C size: 28
+Checker A processing Passenger 35
+Queue C size: 29
+Checker B processing Passenger 26
+Queue C size: 30
+Checker A processing Passenger 36
+Checker B processing Passenger 28
+Queue C size: 31
+Queue C size: 32
+Checker A processing Passenger 38
+Checker B processing Passenger 29
+Queue C size: 33
+Queue C size: 34
+Checker B processing Passenger 31
+Queue C size: 35
+Checker A processing Passenger 39
+Queue C size: 36
+Checker A processing Passenger 40
+Queue C size: 37
+Checker B processing Passenger 32
+Queue C size: 38
+Checker B processing Passenger 33
+Checker A processing Passenger 41
+Queue C size: 39
+Queue C size: 40
+Checker B processing Passenger 37
+Checker A processing Passenger 42
+Queue C size: 41
+Queue C size: 42
+Checker A processing Passenger 43
+Queue C size: 43
+Checker A processing Passenger 44
+Queue C size: 44
+Checker A processing Passenger 47
+Queue C size: 45
+Checker A processing Passenger 48
+Queue C size: 46

@@ -1,0 +1,5 @@
+Apple => computer,fruit
+Java => coffee,programmingLanguage
+Storage	=> box,memory
+Aircraft => airplane,jet
+Python => programmingLanguage,snake

@@ -1,0 +1,70 @@
+Script started on Mon Oct 30 11:14:00 2017
+[?1034hbash-3.2$ javac Question2.java
+bash-3.2$ java Question2
+Matrix Operations
+Enter the row size of the matrix: 2
+Enter the column size of the matrix: 2
+
+Elements of Matrix A: 
+57	94	
+65	4	
+
+Elements of Matrix B: 
+77	43	
+43	71	
+
+Sum of matrix A and B: 
+134	137	
+108	75	
+
+Elements of Matrix A: 
+68	92	
+62	37	
+
+Elements of Matrix B: 
+50	66	
+69	19	
+
+Product of matrix A and B: 
+3400	6072	
+4278	703	
+
+bash-3.2$ jaa[Kva Question2
+Matrix Operations
+Enter the row size of the matrix: 3
+Enter the column size of the matrix: 5
+
+Elements of Matrix A: 
+64	47	76	36	17	
+1	96	93	48	8	
+44	90	11	83	27	
+
+Elements of Matrix B: 
+7	71	71	14	41	
+14	31	59	24	44	
+54	22	31	54	52	
+
+Sum of matrix A and B: 
+71	118	147	50	58	
+15	127	152	72	52	
+98	112	42	137	79	
+
+Elements of Matrix A: 
+51	11	21	25	14	
+42	0	56	67	67	
+20	15	54	84	93	
+
+Elements of Matrix B: 
+9	96	62	5	68	
+73	45	42	17	30	
+96	57	63	31	73	
+
+Product of matrix A and B: 
+459	1056	1302	125	952	
+3066	0	2352	1139	2010	
+1920	855	3402	2604	6789	
+
+bash-3.2$ exit
+exit
+
+Script done on Mon Oct 30 11:14:57 2017

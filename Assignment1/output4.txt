@@ -1,0 +1,16 @@
+Script started on Mon Oct 30 11:23:15 2017
+[?1034hbash-3.2$ exitjava Question4c Question4.java
+bash-3.2$ javac Question4.java[C[C[C[C[C[C[C[C[C[Cexit[Kjava Question4
+n = 1
+0 1 2 3 4 5 6 7 8 9 
+n = 2
+01 02 03 04 05 06 07 08 09 12 13 14 15 16 17 18 19 23 24 25 26 27 28 29 34 35 36 37 38 39 45 46 47 48 49 56 57 58 59 67 68 69 78 79 89 
+k = 3
+000 001 010 100 101 
+k = 4
+0000 0001 0010 0100 0101 1000 1001 1010 
+
+bash-3.2$ java Question4c Question4.java[C[C[C[C[C[C[C[C[C[Cexit[K
+exit
+
+Script done on Mon Oct 30 11:23:26 2017

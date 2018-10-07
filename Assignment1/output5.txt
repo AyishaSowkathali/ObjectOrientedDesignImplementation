@@ -1,0 +1,15 @@
+Script started on Mon Oct 30 11:25:30 2017
+[?1034hbash-3.2$ exitClassjava Question5c Question5.java
+bash-3.2$ javac Question5.java[C[C[C[C[C[C[C[C[C[Cexit[KClassjava Question5
+Query: Apple
+Answer: computer,fruit
+bash-3.2$ java Question5
+Query: Aircraft
+Answer: airplane,jet
+bash-3.2$ java Question5
+Query: Class
+Query Not Found
+bash-3.2$ exit
+exit
+
+Script done on Mon Oct 30 11:26:06 2017

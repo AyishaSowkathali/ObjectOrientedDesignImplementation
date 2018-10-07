@@ -1,0 +1,47 @@
+Script started on Mon Oct 30 11:13:14 2017
+[?1034hbash-3.2$ javac W[KQuestion1.java
+bash-3.2$ java Question1
+Solving Quadric Equations
+Value of a: 1
+Value of b: -3
+Value of  c: 1
+Roots of quadratic equation 1x² + -3x + 1: 
+p = 2.62
+q = 0.38
+
+
+Value of a: 2
+Value of b: -4
+Value of  c: -5
+Roots of quadratic equation 2x² + -4x + -5: 
+p = 2.87
+q = -0.87
+
+
+Value of a: 2
+Value of b: -4
+Value of  c: 2
+Roots of quadratic equation 2x² + -4x + 2: 
+p = 1.0
+
+
+Value of a: 2
+Value of b: -3
+Value of  c: 5
+Roots of quadratic equation 2x² + -3x + 5: 
+p = 0.75 + 1.39i
+q = 0.75 - 1.39i
+
+
+Value of a: 1
+Value of b: 2
+Value of  c: 3
+Roots of quadratic equation 1x² + 2x + 3: 
+p = -1.0 + 1.41i
+q = -1.0 - 1.41i
+
+
+bash-3.2$ exit
+exit
+
+Script done on Mon Oct 30 11:13:38 2017
