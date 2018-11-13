@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## Object Orietned Design and Implementation
 You can use the [editor on GitHub](https://github.com/AyishaSowkathali/Object-Oriented-Design-and-Implementation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
